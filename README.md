@@ -11,7 +11,7 @@ As of right now, this project is meant to test different methods / theories of b
   
   -There is a bug with the biome drawing on the map so it is very square
   
-  -Moisure maps might be the next step, however this code is a reference for another upcoming project.
+  -Moisture maps might be the next step, however this code is a reference for another upcoming project.
   
   
   
