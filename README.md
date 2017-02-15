@@ -3,7 +3,7 @@ I mess around with some biome generator Ideas using a simple console app
 
 This code is older and will probably only be used for reference 
 
-#Explinaiton of what this project does
+#Explaination of what this project does
 
 As of right now, this project is meant to test different methods / theories of biome distribution and creation. 
 
